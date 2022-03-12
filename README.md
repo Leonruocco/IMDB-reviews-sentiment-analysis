@@ -10,4 +10,6 @@ Dropout layers achieve modest improvement but with clear signs of overfitting st
 
 Using GloVe embeddings substantially improves results
 
+To do: use BERT tokenzier
+
 
