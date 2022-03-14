@@ -12,4 +12,8 @@ Using GloVe embeddings substantially improves results
 
 To do: use BERT tokenzier
 
+Data can be found here:
+
+https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
+
 
