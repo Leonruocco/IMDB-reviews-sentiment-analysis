@@ -1,7 +1,7 @@
 # IMDB-reviews-sentiment-analysis
 Natural language processing sentiment analysis was performed on labelled IMDB review dataset. Supervised deep learning was used to test various neural network (NN) models from basic dense layering, to combinations of recurrent (RNN) and convolutional (CNN) neural networks of varying complexity. 
 
-Overfitting was mitigated, and optimimum test accuracy was achieved, with the use of dropout layers alongside custom optimisers as well as word embeddings from GloVe. 
+Overfitting was mitigated, and optimum test accuracy was achieved, with the use of dropout layers alongside custom optimisers as well as word embeddings from GloVe. 
 
 # Summary of results
 Basic NNs with dense layers and RNNs with single LTSM and multi-layer LTSMs achieve a suspcioisly high training accuracy with validation loss increasing over epochs. Clear signs of overfitting.
